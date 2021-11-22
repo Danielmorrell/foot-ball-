@@ -1,0 +1,28 @@
+"Title:","Revenue from the College Athletics Database"
+"SubTitle:","Institutions by State - Collegiate Sport: Football - Variable: Total Revenues per Team for Men"
+"Time:","2005 - 2018"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2020-09-16). Revenue: Revenue | Clemson University, Louisiana State University and Agricultural & Mechanical College, Michigan State University, Ohio State University-Main Campus, Oklahoma State University-Main Campus, Pennsylvania State University-Main Campus, Syracuse University, Texas A & M University-College Station, University of Georgia, University of Oregon | Football | Total Revenues per Team for Men, 2005 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-005 doi:https://doi.org/10.6068/DP17D2E7C25C253"
+"ColumnCount:","11"
+"RowCount:","14"
+
+"Time","Clemson University ($)","Louisiana State University and Agricultural & Mechanical College ($)","Michigan State University ($)","Ohio State University-Main Campus ($)","Oklahoma State University-Main Campus ($)","Pennsylvania State University-Main Campus ($)","Syracuse University ($)","Texas A & M University-College Station ($)","University of Georgia ($)","University of Oregon ($)"
+"2005",22334140,39657764,29274872,51810607,18935014,33236463,16609920,37714172,50895838,16849754
+"2006",24286331,39528895,33585383,60773537,16917935,40555791,19054865,36086026,58661538,18939177
+"2007",32029237,48141751,40795755,59142071,20412787,44014052,14866061,37123296,59516939,21495626
+"2008",33022630,52687713,43826312,65162179,23106517,53766038,15001438,42552070,67053051,24493155
+"2009",30994503,68819806,44462659,63750000,32787498,70208584,19152691,41915428,70838539,29505906
+"2010",31730042,68510141,45040778,60837342,33213396,72747734,18783752,45414074,74888175,27713278
+"2011",39207780,68804309,49754373,58112270,41138312,66210503,28688904,44420762,74989418,51921731
+"2012",41273517,74275838,47869615,61131726,38799125,58722182,33213622,53800924,77594300,53982076
+"2013",42427250,87867268,52793124,65773860,48635619,68018381,38532172,57723769,77160814,55982658
+"2014",43959747,86312831,59227831,83547428,43778793,71305219,41877234,62199166,86719115,60956894
+"2015",45930086,85741919,64661163,86646061,47760618,75462597,38152217,73700887,87613126,66576139
+"2016",51712856,86183249,64958793,89893135,42225614,81106066,44182377,70427183,93335288,66307082
+"2017",52029977,86579944,77930837,110661057,45717019,100098956,41533110,82564175,129023591,70542278
+"2018",61378516,91950610,75545976,115091304,52218241,100133983,43813014,73517543,123073722,72146320
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."

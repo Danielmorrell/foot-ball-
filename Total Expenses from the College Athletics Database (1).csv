@@ -1,0 +1,28 @@
+"Title:","Total Expenses from the College Athletics Database"
+"SubTitle:","Institutions by State - Collegiate Sport: Football - Variable: Total Expenses per Team for Men"
+"Time:","2005 - 2018"
+"Unit of Measure:","$","$","$","$","$","$","$","$","$","$"
+"Citation:","Office of Postsecondary Education, Office of Postsecondary Education (U.S. Department of Education) (2020-09-16). Total Expenses: Total Expenses | Clemson University, Louisiana State University and Agricultural & Mechanical College, Michigan State University, Ohio State University-Main Campus, Oklahoma State University-Main Campus, Pennsylvania State University-Main Campus, Syracuse University, Texas A & M University-College Station, University of Georgia, University of Oregon | Football | Total Expenses per Team for Men, 2005 - 2018. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  069-001-004 doi:https://doi.org/10.6068/DP17D2E7AF1A152"
+"ColumnCount:","11"
+"RowCount:","14"
+
+"Time","Clemson University ($)","Louisiana State University and Agricultural & Mechanical College ($)","Michigan State University ($)","Ohio State University-Main Campus ($)","Oklahoma State University-Main Campus ($)","Pennsylvania State University-Main Campus ($)","Syracuse University ($)","Texas A & M University-College Station ($)","University of Georgia ($)","University of Oregon ($)"
+"2005",10512496,12175610,13711231,25711478,8625007,10746179,15008967,12513549,12532495,9450959
+"2006",12638939,14331867,15910445,32288865,8136251,14140666,14554800,13616098,14553454,12732315
+"2007",13880931,16408162,22496400,32538319,9879701,14609828,15023146,16619256,16372291,12641511
+"2008",15055243,17908178,17910444,33063248,15473818,16537705,14988358,19064170,19073103,16293303
+"2009",16305528,25566520,17468458,31763036,15479410,19780939,15300740,16599798,18308654,18071012
+"2010",17992943,21492741,17420499,34373844,13787271,19519288,16420281,15560216,22036338,18198476
+"2011",23652472,24049282,19079552,34026871,26238172,30206692,21731165,17929882,22710140,20240213
+"2012",19969497,25822306,20624183,22984985,19950826,28637144,22663307,18051635,26325257,21038456
+"2013",24748157,37857120,26678123,23381516,22228460,31488036,23622247,23725572,27246515,18227805
+"2014",24191774,28639663,27694367,32588493,19523281,35146623,19809300,25670784,26154335,20679336
+"2015",34668941,30463660,31978126,37378146,19445963,36163151,23219794,29945769,38884925,23768207
+"2016",43943578,30086567,26326106,38446470,19321071,39163720,22039433,31078112,36387975,28912049
+"2017",46302285,31561996,33528479,46444134,22467863,45569892,24994763,48119071,44909546,27716622
+"2018",55649888,35319160,33928232,60076743,24289694,48538956,28000705,42803201,49207808,33024841
+
+
+
+"Publisher:", "Office of Postsecondary Education (U.S. Department of Education)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
